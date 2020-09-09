@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '36629'
     url: http://www.gutenberg.org/2009/agents/36629
     wikipedia: https://en.wikipedia.org/wiki/Henry_Christopher_McCook
+covers:
+- cover_type: archival
+  image_path: 63053-h/images/cover.jpg
 creator:
   author:
     agent_name: Sutherland, Allan
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '52246'
     url: http://www.gutenberg.org/2009/agents/52246
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63053#Lead-Kindly-Light-Its-Origin-and-Its-Romance
 gutenberg_issued: '2020-08-27'
 gutenberg_type: Text
 identifiers:
